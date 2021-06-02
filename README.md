@@ -1,4 +1,10 @@
-### Hi there 👋
+### 💌 hey, y'all found me! 
+
+I'm Sarah Ciston (they&she), a poet-programmer who loves building community through creative-critical code.  
+
+Currently, I'm a PhD Candidate at USC's Media Arts and Practice division and a Mellon Fellow in Digital Humanities. I'm also a Virtual Fellow at the Alexander von Humboldt Institute for Internet and Society and a Google Season of Docs Mentor with Processing Foundation's P5.JS. 
+
+You can reach me almost everywhere **@sarahciston** 💜
 
 <!--
 **sarahciston/sarahciston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
