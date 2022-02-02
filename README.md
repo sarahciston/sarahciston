@@ -2,7 +2,7 @@
 
 I'm Sarah Ciston (they&she), a poet-programmer who loves building community through creative-critical code.  
 
-Currently, I'm a PhD Candidate at USC's Media Arts and Practice division and a Mellon Fellow in Digital Humanities. I'm also a Virtual Fellow at the Alexander von Humboldt Institute for Internet and Society and a Google Season of Docs Mentor with Processing Foundation's P5.JS. 
+Currently, I'm a PhD Candidate at USC's Media Arts and Practice division and a Mellon Fellow in Digital Humanities. I'm also an Associated Researcher at the Humboldt Institute for Internet and Society and recently a Google Season of Docs Mentor with Processing Foundation's P5.JS. 
 
 You can reach me almost everywhere **@sarahciston** 💜
 
