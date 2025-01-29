@@ -1,8 +1,10 @@
-### 💌 hey, y'all found me! 
+### 💌 hey there! 
 
-I'm Sarah Ciston (they), a poet-programmer who loves building community through creative-critical code and building intersectional tools for AI. I did my PhD at USC's Media Arts and Practice division. I'm also an Associated Researcher at the Humboldt Institute for Internet and Society, an AI Fellow at the Akademie der Künste (Art) Berlin, and recently a Google Season of Docs Mentor with Processing Foundation's P5.js. 
+I'm Sarah Ciston (they). I love building community through creative-critical code and building intersectional tools for AI. I did my PhD at USC's Media Arts and Practice division. I'm an Associated Researcher at the Humboldt Institute for Internet and Society, a recent AI Fellow at the Akademie der Künste (Art) Berlin, and a Google Season of Docs Mentor and Technical Writer with Processing Foundation's P5.js, where I've been working on all things Critical AI. 
 
-You can reach me almost everywhere **@sarahciston** 💜
+This summer I'll be am a Fellow at the Center for Advanced Internet Studies, working on intersectional datasets for machine learning and on ML tasks in warfare. 
+
+You can reach me almost everywhere **@sarahciston**
 
 <!--
 **sarahciston/sarahciston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
