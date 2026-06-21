@@ -1,6 +1,6 @@
 ### 💌 hey there! 
 
-I'm Sarah Ciston (they/any). I love building community through creative-critical code and building intersectional tools for AI. I'm the [Professor of Computational Thinking and Aesthetic Doing](https://khm.de) at Kunsthochschule für Medien Köln (Academy of Media Arts Cologne), where I run [Code Collective](https://codecollective.org)--a community for co-learning programming using approachable, interdisciplinary strategies. I'm currently researching how military AI decision-making systems overlap with everyday tech. You can reach me almost everywhere **@sarahciston**
+I'm Sarah Ciston (they/any). I love building community through creative-critical code and building intersectional tools for AI. I am [Professor of Computational Thinking and Aesthetic Doing]([https://khm.de)](https://en.khm.de/lehrende/0/id.32368.prof-dr-sarah-ciston/) at Kunsthochschule für Medien Köln (Academy of Media Arts Cologne), where I run [Code Collective](https://codecollective.org)--a community for co-learning programming using approachable, interdisciplinary strategies. I'm currently researching how military AI decision-making systems overlap with everyday tech, how words became vectors, and how ideology and difference are amplified by automated systems. You can reach me almost everywhere **@sarahciston**
 
 <!--
 **sarahciston/sarahciston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
